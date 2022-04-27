@@ -1,4 +1,4 @@
-<a href="url"><img src="assets/apple_icon.jpg" align="left" height="240" width="240" ></a>
+<a href="url"><img src="assets/apple_icon.jpg" align="left" height="250" width="250" ></a>
 
 # Ms.Sandoval's Teacher Webpage
 
