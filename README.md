@@ -1,6 +1,6 @@
 <a href="url"><img src="assets/apple_icon.jpg" align="left" height="250" width="250" ></a>
 
-# Ms.Sandoval's Teacher Webpage
+# Ms.Sandoval's Class
 
 Ms.Sandoval is a special education teacher that teaches from Pre-k to 4th grade. A Teacher Webpage was created for her about her class. The webpage is for the student’s parents to have a better understanding of the class and have more resources/activities for students.
 
