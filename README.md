@@ -29,4 +29,4 @@ HTML, JavaScript, Bootstrap, CSS
 ## Images
 <a href="url"><img src="/assets/img/ms.sandovals_homepage.png" height="230" width="400" ></a>
 <a href="url"><img src="/assets/img/Ms.sandoval_schedule.png" height="230" width="400" ></a>
-<a href="url"><img src="/assets/img/Ms.sandoval_contact_info.png" height="230" width="400" ></a>
+<a href="url"><img src="/assets/img/Ms.sandovals_contact_info.png" height="230" width="400" ></a>
