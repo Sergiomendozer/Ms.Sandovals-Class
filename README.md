@@ -27,7 +27,7 @@ HTML, JavaScript, Bootstrap, CSS
 [View Project](https://sergiomendozer.github.io/Ms.Sandovals-Class/)
 
 ## Images
-<a href="url"><img src="/assets/img/Ms.sandovals_homepage.png" height="230" width="400" ></a>
-<a href="url"><img src="/assets/img/Ms.sandoval_rules.png" height="230" width="400" ></a>
+<a href="url"><img src="/assets/img/ms.sandovals_homepage.png" height="230" width="400" ></a>
+<a href="url"><img src="/assets/img/Ms.sandovals_rules.png" height="230" width="400" ></a>
 <a href="url"><img src="/assets/img/Ms.sandoval_schedule.png" height="230" width="400" ></a>
 <a href="url"><img src="/assets/img/Ms.sandovals_contact_info.png" height="230" width="400" ></a>
